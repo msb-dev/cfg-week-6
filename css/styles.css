@@ -18,7 +18,7 @@ div {
   flex-direction: column;
 }
 
-h1 {
+button {
   padding: 10px 30px;
   border-radius: 5px;
   border: none;
@@ -29,13 +29,8 @@ h1 {
   font-weight: bold;
 }
 
-h1:hover {
-  cursor: pointer;
-}
-
 p {
   position: fixed;
   bottom: 10px;
   color: #ffffff;
 }
-
