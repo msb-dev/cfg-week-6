@@ -1,12 +1,11 @@
-# Javascript and Jquery!
+# JavaScript!
 
 ## First Task
-- Fork this directory into your personal account and clone it into your coding_course folder, like you did last week with the bootstrap excercise.
-- Add jquery using a cdn, make sure it is called above the other JS files. ([CDNJS](https://cdnjs.com/libraries/jquery/) is a good website for this, make sure you select 'jquery' not 'core')
+- Fork this directory into your personal account and clone it into your coding_course folder.
 - Read through the code in 'background.js', try and complete the function which will change the background when the button is clicked
 
-## Extention task
-- Using variables, change the text in the span to be the name of an artist when the background changes
+## Extension task
+- Using variables, change the text in the span to be the name of the photographer when the background changes
 
 
 #### Feeling stuck?
