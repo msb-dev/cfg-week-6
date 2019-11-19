@@ -23,7 +23,6 @@ button.addEventListener('click', function () {
   // EXTENSION TASK!
   // 3. Change the text of the 'span' to be that of the photographer
   //   (hint, you should re-use randomBackground)
-  // $('span').text(randomBackground)
 
   // Double points if you replace '-' between their names with a space
   let artist = randomBackground.replace(/-/g, ' ');
