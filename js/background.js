@@ -2,16 +2,16 @@
 console.log('hello!')
 
 // three different variables for the different images
-let backgrounds = ['mike-yukhtenko', 'gabriele-garanzelli', 'fabian-oelkers'];
+let backgrounds = ['mike-yukhtenko', 'gabriele-garanzelli', 'fabian-oelkers']
 
-let button = document.querySelector('button');
+let button = document.querySelector('button')
 // when the button is clicked it triggers a function
 button.addEventListener('click', function () {
   // 1. log to the console that you have clicked the button
 
 
   // this selects a randon background from above and stores it as the variable 'randomBackground'
-  let randomBackground = backgrounds[Math.floor(Math.random() * backgrounds.length)];
+  let randomBackground = backgrounds[Math.floor(Math.random() * backgrounds.length)]
   // this creates a string that css will understand to be a background url
   let imageUrl = "url('./images/" + randomBackground + ".jpg')"
 
